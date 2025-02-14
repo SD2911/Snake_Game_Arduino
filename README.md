@@ -18,7 +18,9 @@ This project is a classic Snake game implemented on an Arduino Uno using an OLED
 - **Breadboard**
 
 ## Circuit Diagram
-![Circuit Diagram](images/Circuit%20Diagram.png)
+
+![Circuit Diagram](Circuit%20Diagram.png)
+
 
 
 
